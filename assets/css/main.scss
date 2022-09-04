@@ -41,10 +41,11 @@ ul {
     margin-left: 1rem;
 }
 
-ul.news {
+ul.news, ul.no-bullets {
     list-style: none;
     margin-left: 0rem;
 }
+
 
 ul.news li {
     margin-top: 2rem;
@@ -72,6 +73,10 @@ ul.news li {
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+
+table td {
+    vertical-align: top;
 }
 
 @media only screen and (max-width: 780px) {

@@ -1,0 +1,367 @@
+
+- date: 2022-09-16
+  hours: 1
+  time: 13:30-15:30
+  topic: "Course description"
+  part: ""
+  lesson: "1"
+  index: 0
+  materials:
+    - topic: ""
+      slides: "L1.P1.V0.Models.courseIntro"
+
+- date: 2022-09-16
+  hours: 1
+  time: 13:30-15:30
+  topic: "Informal Modeling"
+  part: "1st part --- Modeling"
+  lesson: "1"
+  index: 2
+  materials:
+    - topic: "Introduction"
+      slides: "L1.P2.V0.Models.mentalModelComponents"
+    - topic: "Components"
+      slides: "L1.P2.V0.Models.exampleOfModel"
+
+- date: 2022-09-22
+  hours: 2
+  time: 13:30-15:30
+  topic: "Formal modeling"
+  part: "1st part --- Modeling"
+  lesson: "2"
+  index: 4
+  materials:
+    - topic: "Introduction"
+      slides: "L2.P1.V0.Modeling.logicalModels"
+    - topic: "Set Theory"
+      slides: "L2.P2.V0.Modeling.setTheory"
+    - topic: "Graph Theory"
+      slides: "L2.P3.V0.Modeling.knowledgeGraphs"
+
+- date: 2022-09-23
+  hours: 2
+  time: 13:30-15:30
+  topic: " What is a logic"
+  part: "1st part --- Modeling"
+  lesson: "3"
+  index: 7
+  materials:
+    - topic: "Defining a Logic"
+      slides: "L3.P1.V0.Modeling.definingALogic"
+    - topic: "Tradeoffs"
+      slides: "L3.P2.V0.Modeling.tradeoffs"
+
+- date: 2022-09-29
+  hours: 2
+  time: 13:30-15:30
+  topic: ""
+  part: "1st part --- Modeling"
+  lesson: "4"
+  index: 9
+  materials:
+    - topic: "Semantic properties"
+      slides: "L4.P2.V0.Modeling.semanticProperties"
+    - topic: "Entailment properties"
+      slides: "L4.P3.V0.Modeling.entailmentProperties"
+    - topic: "Derivation and properties"
+      slides: "L5.P1.V0.Modeling.derivationAndProperties"
+    - topic: "Deductive reasoning"
+      slides: "L5.P2.V0.Modeling.deductiveReasoning"
+
+- date: 2022-09-30
+  hours: 2
+  time: 13:30-15:30
+  topic: "Applications"
+  part: "1st part --- Modeling"
+  lesson: "5"
+  index: 13
+  materials:
+    - topic: "Informal vs formal modeling"
+      slides: "L6.P1.V0.Modeling.informalVsFormal"
+    - topic: "Selecting a logic"
+      slides: "L6.P2.V0.Modeling.selectingALogic"
+
+- date: 2022-10-06
+  hours: 2
+  time: 13:30-15:30
+  topic: "Exercises"
+  part: "1st part --- Modeling"
+  lesson: "6"
+  index: 15
+  materials:
+    - topic: "Exercises"
+      slides: "L6.P2.V0.Modeling.Exercises"
+
+- date: 2022-10-07
+  hours: 2
+  time: 13:30-15:30
+  topic: "Notions"
+  part: "2nd part --- PL"
+  lesson: "7"
+  index: 17
+  materials:
+    - topic: "Intuition"
+      slides: "L7.P1.V0.PL.intuition"
+    - topic: "Syntax"
+      slides: "L7.P2.V0.PL.syntax"
+    - topic: "Semantics"
+      slides: "L7.P3.V0.PL.semantics"
+    - topic: "Satisfiability"
+      slides: "L7.P4.V0.PL.satisfiability"
+    - topic: "Validity and unsatisfiability"
+      slides: "L7.P5.V0.PL.val&Unsat"
+    - topic: "Logical consequence and equivalence"
+      slides: "L7.P6.V0.PL.logicalConsequenceAndEquivalence"
+
+- date: 2022-10-13
+  hours: 2
+  time: 13:30-15:30
+  topic: ""
+  part: "2nd part --- PL"
+  lesson: "8"
+  index: 23
+  materials:
+    - topic: "InformalToFormal"
+      slides: "L8.P1.V0.PL.informalToFormal"
+
+- date: 2022-10-14
+  hours: 2
+  time: 13:30-15:30
+  topic: "Truth tables reasoning"
+  part: "2nd part --- PL"
+  lesson: "9"
+  index: 24
+  materials:
+    - topic: "Truth Tables"
+      slides: "L9.P1.V0.PL.truthTables"
+    - topic: "Sat-based reasoning"
+      slides: "L9.P2.V0.PL.SATdefinitions"
+
+- date: 2022-10-20
+  hours: 2
+  time: 13:30-15:30
+  topic: "Tableaux Reasoning"
+  part: "2nd part --- PL"
+  lesson: "10"
+  index: 26
+  materials:
+    - topic: "Reasoning problems"
+      slides: "L11.P1.V0.PL.reasoningProblems"
+    - topic: "Tableaux"
+      slides: "L11.P1.V0.PL.Tableaux"
+
+- date: 2022-10-21
+  hours: 2
+  time: 13:30-15:30
+  topic: "Exercises"
+  part: "2nd part --- PL"
+  lesson: "11"
+  index: 28
+  materials:
+    - topic: "Recap "
+      slides: "L12.P1.V0.PL.recap"
+    - topic: "Exercises "
+      slides: "L12.P2.V0.PL.exercises"
+
+- date: 
+  hours: 
+  time: 
+  topic: "Preparazione midterm"
+  part: "2nd part --- PL"
+  lesson: "12+"
+  index: 30
+  materials:
+    - topic: ""
+      slides: ""
+
+- date: 2022-11-03
+  hours: 
+  time: 
+  topic: "Midterm"
+  part: "2nd part --- PL"
+  lesson: ""
+  index: 31
+  materials:
+    - topic: ""
+      slides: ""
+
+- date: 2022-10-27
+  hours: 2
+  time: 13:30-15:30
+  topic: "Notions"
+  part: "3rd part: FOL"
+  lesson: "12"
+  index: 33
+  materials:
+    - topic: "Intuition"
+      slides: "L13.P1.V0.FOL.intuition"
+    - topic: "Syntax"
+      slides: "L13.P2.V0.FOL.syntax"
+    - topic: "Semantics"
+      slides: "L13.P3.V0.FOL.semantics"
+    - topic: "Satisfiability"
+      slides: "L13.P4.V0.FOL.satisfiability"
+    - topic: "Validity and unsatisfiability"
+      slides: "L13.P5.V0.FOL.val&unsat"
+    - topic: "Logical consequence and equivalence"
+      slides: "L13.P6.V0.FOL.logicalConsequence&equivalence"
+
+- date: 2022-11-28
+  hours: 2
+  time: 13:30-15:30
+  topic: ""
+  part: "3rd part: FOL"
+  lesson: "13"
+  index: 39
+  materials:
+    - topic: "InformalToFormal"
+      slides: "L14.P1.V0.FOL.informalToFormal"
+
+- date: 2022-11-10
+  hours: 2
+  time: 13:30-15:30
+  topic: "Truth tables reasoning"
+  part: "3rd part: FOL"
+  lesson: "14"
+  index: 40
+  materials:
+    - topic: "Finite domains"
+      slides: "L15.P1.V0.finiteDomains"
+    - topic: "Truth Tables"
+      slides: "L15.P2.V0.FOL.truthTables"
+    - topic: "Sat-based Reasoning"
+      slides: "L15.P3.V0.FOL.DPLL"
+
+- date: 2022-11-11
+  hours: 2
+  time: 13:30-15:30
+  topic: "Tableaux reasoning"
+  part: "3rd part: FOL"
+  lesson: "15"
+  index: 43
+  materials:
+    - topic: "Reasoning problems"
+      slides: "L16.P1.V0.FOL.reasoningProblems"
+    - topic: "Tableaux"
+      slides: "L16.P2.V0.FOL.tableaux"
+    - topic: "Problem of non-termination"
+      slides: "L16.P3.V0.FOL.problemOfNonTermination"
+    - topic: "Countermodels"
+      slides: "L16.P4.V0.FOL.countermodels"
+
+- date: 2022-11-17
+  hours: 2
+  time: 13:30-15:30
+  topic: "Exercises"
+  part: "3rd part: FOL"
+  lesson: "16"
+  index: 47
+  materials:
+    - topic: "Recap"
+      slides: "L17.P1.V0.FOL.recap"
+    - topic: "Exercises"
+      slides: "L17.P2.V0.FOL.exercises"
+
+- date: 2022-11-18
+  hours: 2
+  time: 13:30-15:30
+  topic: "Notions"
+  part: "4th part: DL"
+  lesson: "17"
+  index: 50
+  materials:
+    - topic: "Intuition"
+      slides: "L18.P1.V0.DL.Intuition"
+    - topic: "Tbox language"
+      slides: "L18.P2.V0.DL.tboxLanguage"
+    - topic: "Tbox definition "
+      slides: "L18.P3.V0.DL.tboxDefinition"
+    - topic: "Abox language"
+      slides: "L18.P4.V0.DL.aboxLanguage"
+    - topic: "Abox definition"
+      slides: "L18.P5.V0.DL.aboxDefinition"
+
+- date: 2022-11-24
+  hours: 2
+  time: 13:30-15:30
+  topic: ""
+  part: "4th part: DL"
+  lesson: "18"
+  index: 55
+  materials:
+    - topic: "InformalToFormal"
+      slides: "L19.P1.V0.DL.informalToFormal"
+
+- date: 2022-11-25
+  hours: 1
+  time: 13:30-15:30
+  topic: "Reasoning"
+  part: "4th part: DL"
+  lesson: "19"
+  index: 56
+  materials:
+    - topic: "Reasoning tasks for Tbox"
+      slides: "L20.P1.V0.DL.reasoningTasksForTbox"
+    - topic: "Reasoning tasks for Abox"
+      slides: "L20.P2.V0.DL.reasoningTasksForAbox"
+
+- date: 2022-12-01
+  hours: 2
+  time: 13:30-15:30
+  topic: "Tableaux Reasoning"
+  part: "4th part: DL"
+  lesson: "20"
+  index: 58
+  materials:
+    - topic: "Tableaux for consistency checking"
+      slides: "L21.P1.V0.DL.Tableaux"
+    - topic: "Examples on tableaux"
+      slides: "L21.P2.V0.DL.tableauxExercises"
+
+- date: 2022-12-02
+  hours: 2
+  time: 13:30-15:30
+  topic: "Exercises "
+  part: "4th part: DL"
+  lesson: "21"
+  index: 60
+  materials:
+    - topic: "Recap"
+      slides: "L22.P1.V0.DL.recap"
+    - topic: "Exercises"
+      slides: "L22.P2.V0.DL.exercises"
+
+- date: 2022-12-08
+  hours: 1
+  time: 13:30-15:30
+  topic: "Databases"
+  part: "5th part: applications"
+  lesson: "22"
+  index: 63
+  materials:
+    - topic: "Example 1: Relational Databases"
+      slides: "L23.P1.V0.Applications.databases"
+    - topic: "Example2: ER"
+      slides: "L23.P2.V0.Applications.ER"
+
+- date: 2022-12-15
+  hours: 2
+  time: 13:30-15:30
+  topic: "Exercises"
+  part: "5th part: applications"
+  lesson: "23"
+  index: 65
+  materials:
+    - topic: "Exercises"
+      slides: "L24.P1.V0.Applications.Exercises"
+
+- date: 2022-12-20
+  hours: 0
+  time: 
+  topic: "Final"
+  part: "5th part: applications"
+  lesson: ""
+  index: 66
+  materials:
+    - topic: ""
+      slides: ""

@@ -19,9 +19,15 @@
 - name: Kurt Gödel
   url: https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
   picture: goedel-older.jpg
+- name: Ada Lovelace
+  url: https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer
+  picture: lovelace.jpg
 - name: John McCarthy
   url: https://engineering.stanford.edu/about/heroes/2013-heroes/john-mccarthy
   picture: mccarthy.jpg
+- name: Maryam Mirzakhani
+  url: https://www.nature.com/articles/549032a/
+  picture: mirzakhani.jpg
 - name: Giuseppe Peano
   url: https://www.britannica.com/biography/Giuseppe-Peano
   picture: peano.jpg
@@ -31,12 +37,18 @@
 - name: Socrates
   url: https://www.britannica.com/biography/Socrates
   picture: socrates.jpg
+- name: Spock
+  url: https://en.wikipedia.org/wiki/Spock
+  picture: spock
 - name: Alfred Tarski
   url: https://www.britannica.com/biography/Alfred-Tarski
   picture: tarski.jpeg
 - name: Alan Turing
   url: https://www.cia.gov/stories/story/the-enigma-of-alan-turing/
   picture: turing.jpg
+- name: Dorothy Vaughan
+  url: https://www.britannica.com/biography/Dorothy-Vaughan
+  picture: vaughan.jpg
 - name: Karl Weierstrass
   url: https://en.wikipedia.org/wiki/Karl_Weierstrass
   picture: weierstrass.jpg

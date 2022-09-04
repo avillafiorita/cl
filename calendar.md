@@ -4,27 +4,51 @@ layout: default
 ---
 # Calendar
 
-The course runs from Sep, 10, 2022 till Dec 15, 2022 with the following
-schedule:
+The course runs from {{ site.data.lessons.first.date | date_to_string:
+"ordinal", "US" }} till {{ site.data.lessons.last.date |
+date_to_string: "ordinal", "US"}} with the following schedule:
 
--   Mondays, 14:30-16:00
--   Tuesdays, 9:00-10:30
+-   Thursdays, 13:30-15:30
+-   Fridays, 13:30-15:30
 
-The Zoom link for the video conference available on the Moodle platform
-at the University of Trento.
-
-> Interactive sessions are recorded and made available on the Internet for
-> reference and support to other students. If you do not wish to be
-> recorded, you can organize a meeting with one of the professors.
+Lessons are in Room (TO BE DEFINED).
 
 You might want to read the [Instructions](./instructions) to
 understand how to take the course. (And the expression \"you might want
 ...\" gets translated in Italian with: \"è assolutamente necessario che
 ...\".)
 
-Notice also the titles and structure of the lessons yet to be delivered
-might change slightly . The rule of the thumb is: if there are links
-with materials, things won\'t change; if there are no links to the
-materials, titles and content are just suggestions.
+The following is the lesson plan.  Notice that titles and structure of
+the lessons yet to be delivered might change.  When the lesson ends,
+we add links with the correct set of slides.
 
-... CALENDAR ...
+<table>
+    <thead>
+      <tr>
+        <th>Planned Date</th>
+        <th>Planned Topic</th>
+        <th>Materials</th>
+      </tr>      
+    </thead>
+    <tbody>
+    {% for lesson in site.data.lessons %}
+    <tr>
+    <td>
+      {{ lesson.date | date_to_string: "ordinal", "US" }}<br />
+      {{ lesson.time }}
+    </td>
+    <td>{{ lesson.topic }}</td>
+    <td>
+        <ul>
+        {% for material in lesson.materials %}
+        {% if material.slides != "" %}
+          <li>{{ material.topic }}: {{ material.slides }}</li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+    </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+ 

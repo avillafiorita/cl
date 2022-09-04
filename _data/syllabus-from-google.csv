@@ -1,0 +1,70 @@
+#,Hours,Day,Time,Lecturer,Topic,Subtopics,Slides: Format: Lesson.Part.slideVersion.Topic.Subtopic
+1,1,16/09,13:30-15:30,,Course description,,L1.P1.V0.Models.courseIntro
+1st part --- Modeling,,,,,,,
+1,1,16/09,13:30-15:30,,Informal Modeling,Introduction,L1.P2.V0.Models.mentalModelComponents
+,,,,,,Components,L1.P2.V0.Models.exampleOfModel
+2,2,22/09,13:30-15:30,,Formal modeling,Introduction,L2.P1.V0.Modeling.logicalModels
+,,,,,,Set Theory,L2.P2.V0.Modeling.setTheory
+,,,,,,Graph Theory,L2.P3.V0.Modeling.knowledgeGraphs
+3,2,23/09,13:30-15:30,, What is a logic,Defining a Logic,L3.P1.V0.Modeling.definingALogic
+,,,,,,Tradeoffs,L3.P2.V0.Modeling.tradeoffs
+4,2,29/09,13:30-15:30,,,Semantic properties,L4.P2.V0.Modeling.semanticProperties
+,,,,,,Entailment properties,L4.P3.V0.Modeling.entailmentProperties
+,,,,,,Derivation and properties,L5.P1.V0.Modeling.derivationAndProperties
+,,,13:30-15:30,,,Deductive reasoning,L5.P2.V0.Modeling.deductiveReasoning
+5,2,30/09,13:30-15:30,,Applications,Informal vs formal modeling,L6.P1.V0.Modeling.informalVsFormal
+,,,,,,Selecting a logic,L6.P2.V0.Modeling.selectingALogic
+6,2,06/10,13:30-15:30,,Exercises,Exercises,L6.P2.V0.Modeling.Exercises
+2nd part --- PL,,,,,,,
+7,2,7/10,13:30-15:30,,Notions,Intuition,L7.P1.V0.PL.intuition
+,,,,,,Syntax,L7.P2.V0.PL.syntax
+,,,,,,Semantics,L7.P3.V0.PL.semantics
+,,,,,,Satisfiability,L7.P4.V0.PL.satisfiability
+,,,,,,Validity and unsatisfiability,L7.P5.V0.PL.val&Unsat
+,,,,,,Logical consequence and equivalence,L7.P6.V0.PL.logicalConsequenceAndEquivalence
+8,2,13/10,13:30-15:30,,,InformalToFormal,L8.P1.V0.PL.informalToFormal
+9,2,14/10,13:30-15:30,,Truth tables reasoning,Truth Tables,L9.P1.V0.PL.truthTables
+,,,,,,Sat-based reasoning,L9.P2.V0.PL.SATdefinitions
+10,2,20/10,13:30-15:30,,Tableaux Reasoning,Reasoning problems,L11.P1.V0.PL.reasoningProblems
+,,,,,,Tableaux,L11.P1.V0.PL.Tableaux
+11,2,21/10,13:30-15:30,,Exercises,Recap ,L12.P1.V0.PL.recap
+,,,,,,Exercises ,L12.P2.V0.PL.exercises
+12+,,,,,Preparazione midterm,,
+,,3/11 o 4/11,,,Midterm,,
+3rd part: FOL,,,,,,,
+12,2,27/10,13:30-15:30,,Notions,Intuition,L13.P1.V0.FOL.intuition
+,,,,,,Syntax,L13.P2.V0.FOL.syntax
+,,,,,,Semantics,L13.P3.V0.FOL.semantics
+,,,,,,Satisfiability,L13.P4.V0.FOL.satisfiability
+,,,,,,Validity and unsatisfiability,L13.P5.V0.FOL.val&unsat
+,,,,,,Logical consequence and equivalence,L13.P6.V0.FOL.logicalConsequence&equivalence
+13,2,28/11,13:30-15:30,,,InformalToFormal,L14.P1.V0.FOL.informalToFormal
+14,2,10/11,13:30-15:30,,Truth tables reasoning,Finite domains,L15.P1.V0.finiteDomains
+,,,,,,Truth Tables,L15.P2.V0.FOL.truthTables
+,,,,,,Sat-based Reasoning,L15.P3.V0.FOL.DPLL
+15,2,11/11,13:30-15:30,,Tableaux reasoning,Reasoning problems,L16.P1.V0.FOL.reasoningProblems
+,,,,,,Tableaux,L16.P2.V0.FOL.tableaux
+,,,,,,Problem of non-termination,L16.P3.V0.FOL.problemOfNonTermination
+,,,,,,Countermodels,L16.P4.V0.FOL.countermodels
+16,2,17/11,13:30-15:30,,Exercises,Recap,L17.P1.V0.FOL.recap
+,,,,,,Exercises,L17.P2.V0.FOL.exercises
+4th part: DL,,,,,,,
+17,2,18/11,13:30-15:30,,Notions,Intuition,L18.P1.V0.DL.Intuition
+,,,,,,Tbox language,L18.P2.V0.DL.tboxLanguage
+,,,,,,Tbox definition ,L18.P3.V0.DL.tboxDefinition
+,,,,,,Abox language,L18.P4.V0.DL.aboxLanguage
+,,,,,,Abox definition,L18.P5.V0.DL.aboxDefinition
+18,2,24/11,13:30-15:30,,,InformalToFormal,L19.P1.V0.DL.informalToFormal
+19,1,25/11,13:30-15:30,,Reasoning,Reasoning tasks for Tbox,L20.P1.V0.DL.reasoningTasksForTbox
+,1,,,,,Reasoning tasks for Abox,L20.P2.V0.DL.reasoningTasksForAbox
+20,2,1/12,13:30-15:30,,Tableaux Reasoning,Tableaux for consistency checking,L21.P1.V0.DL.Tableaux
+,,,,,,Examples on tableaux,L21.P2.V0.DL.tableauxExercises
+21,2,2/12,13:30-15:30,,Exercises ,Recap,L22.P1.V0.DL.recap
+,,,,,,Exercises,L22.P2.V0.DL.exercises
+5th part: applications,,,,,,,
+22,1,8/12,13:30-15:30,,Databases,Example 1: Relational Databases,L23.P1.V0.Applications.databases
+,1,,,,ER models,Example2: ER,L23.P2.V0.Applications.ER
+23,2,15/12,13:30-15:30,,Exercises,Exercises,L24.P1.V0.Applications.Exercises
+,0,20/12,,,Final,,
+,,,,,,,
+,45,,,,,,

@@ -2,7 +2,7 @@
 title: Welcome
 layout: default
 ---
-<img src="{{ "assets/images/newlogo_unitn_en.png" | absolute_url}}"
+<img src="{{ "assets/images/newlogo_unitn_en.png" | absolute_url }}"
      alt="UNITN Logo"
      class="hide-for-small">
 
@@ -16,7 +16,7 @@ This edition is taught by:
 On this website you can find the following information:
 
 {% for menu in site.data.menus %}
--   [{{menu.title}}]({{menu.link}})
+-   [{{ menu.title }}]({{ menu.link | absolute_url }})
 {% endfor %}
 
 > This website is built with [Jekyll](https://jekyllrb.com). You can

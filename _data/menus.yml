@@ -1,16 +1,16 @@
 - title: News
-  link: news
+  link: news.html
 - title: Instructions
-  link: instructions
+  link: instructions.html
 - title: Calendar and Material
-  link: calendar
+  link: calendar.html
 - title: Syllabus
-  link: syllabus
+  link: syllabus.html
 - title: Examination and Grading
-  link: exam
+  link: exam.html
 - title: Questions and Answers
-  link: q-and-a
+  link: q-and-a.html
 - title: Collaboration Opportunities (e.g., 150h)
-  link: opportunities
+  link: opportunities.html
 - title: Contacts
-  link: contacts
+  link: contacts.html
