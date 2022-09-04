@@ -2,12 +2,14 @@
 title: News
 layout: default
 ---
+# News
+
 <ul class="news">
 {% for record in site.data.news %}
-<li class="record">
-  <span class="date">{{record.date }}</span>
-  <span class="title">{{ record.title }}</span>
-  <p class="description">{{ record.description }}</p>
+<li class="news-item">
+  <span class="news-summary-date">{{ record.date | date_to_string: "ordinal", "US"  }}</span>
+  <span class="news-summary-title">{{ record.title }}</span>
+  <div class="news-summary-description">{{ record.description }}</div>
 </li>
 {% endfor %}
 </ul>

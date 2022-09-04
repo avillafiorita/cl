@@ -2,8 +2,9 @@
 title: Calendar
 layout: default
 ---
+# Calendar
 
-The course runs from Sep, 14, 2020 till Dec 15, 2020 with the following
+The course runs from Sep, 10, 2022 till Dec 15, 2022 with the following
 schedule:
 
 -   Mondays, 14:30-16:00

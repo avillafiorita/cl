@@ -2,8 +2,9 @@
 title: Instructions
 layout: default
 ---
+# Instructions
 
-The Fall 2020 Edition of Computational Logic is delivered using the
+The Fall 2022 Edition of Computational Logic is delivered using the
 Flipped Classroom methodology[^1], which requires a bit more work on
 your side during the course (and also on our side), but should yield
 considerably better results.
@@ -15,11 +16,11 @@ In synthesis...
 -   Watch videos and read the material which will be discussed during
     the next lesson in person. If in doubt, consult the
     [Calendar](calendar) for the current assignment.
--   Post your question and doubts by ****opening issues**** on the
-    [cl-2020 repository](https://github.com/avillafiorita/cl-2020) on
-    GitHub, where this website is hosted, ****on the Thursday before the
-    lesson****. To avoid useless work on both sides, make sure you
-    ****check the open issues before posting a new question****. Note
+-   Post your question and doubts by **opening issues** on the
+    [cl-2022 repository](https://github.com/avillafiorita/cl-2022) on
+    GitHub, where this website is hosted, **on the Thursday before the
+    lesson**. To avoid useless work on both sides, make sure you
+    **check the open issues before posting a new question**. Note
     that you might need to register on GitHub, if you don\'t have an
     account.
 

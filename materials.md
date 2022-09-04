@@ -2,6 +2,7 @@
 title: Materials
 layout: default
 ---
+# Materials 
 
 This page contains references and materials on the topics taught in the
 course. There are many, many courses covering mathematical logic: if you
@@ -23,11 +24,19 @@ Github, so that we can improve this page.
     If you are enrolled in the course, you can visit the
     [CL 2022 Moodle Page at UNITN](https://didatticaonline.unitn.it/dol/enrol/index.php?id=24456)
 
+# Previous Editions of the Course
+
+-   [CL-2020](https://datascientia.education/cl-2020) hosts the previous
+    edition of the course and it might be useful for exercises, **although we
+    are making the effort of moving all materials to this website**.  Keep
+    also in mind that the materials have been revised and some topics, most
+    notably Modal Logics, are no longer relevant.
+
 # External Materials covering topics taught in CL-2022
 
 You might try using these materials to get a different approach to
 explaining the topics we cover in the course. Notice that these
-materials might not cover topics we cover in CL-2020 and, viceversa,
+materials might not cover topics we cover in CL-2022 and, viceversa,
 explore topics we are not covering in this course.
 
 -   [Introduction to AI at

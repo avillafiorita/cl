@@ -1,0 +1,42 @@
+- name: Aristotle
+  url: https://en.wikipedia.org/wiki/Aristotle
+  picture: aristotele.jpg
+- name: George Boole
+  url: https://plato.stanford.edu/entries/boole/
+  picture: boole.jpg
+- name: George Cantor
+  url: https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/
+  picture: cantor.jpg
+- name: Augustin-Louis Cauchy
+  url: https://www.britannica.com/biography/Augustin-Louis-Baron-Cauchy
+  picture: cauchy.jpg
+- name: Richard Dedekind
+  url: https://en.wikipedia.org/wiki/Richard_Dedekind
+  picture: dedekind.jpg
+- name: Gottlob Frege
+  url: https://plato.stanford.edu/entries/frege/
+  picture: frege.jpg
+- name: Kurt Gödel
+  url: https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
+  picture: goedel-older.jpg
+- name: John McCarthy
+  url: https://engineering.stanford.edu/about/heroes/2013-heroes/john-mccarthy
+  picture: mccarthy.jpg
+- name: Giuseppe Peano
+  url: https://www.britannica.com/biography/Giuseppe-Peano
+  picture: peano.jpg
+- name: Bertrand Russell
+  url: https://plato.stanford.edu/entries/russell/
+  picture: russell.jpg
+- name: Socrates
+  url: https://www.britannica.com/biography/Socrates
+  picture: socrates.jpg
+- name: Alfred Tarski
+  url: https://www.britannica.com/biography/Alfred-Tarski
+  picture: tarski.jpeg
+- name: Alan Turing
+  url: https://www.cia.gov/stories/story/the-enigma-of-alan-turing/
+  picture: turing.jpg
+- name: Karl Weierstrass
+  url: https://en.wikipedia.org/wiki/Karl_Weierstrass
+  picture: weierstrass.jpg
