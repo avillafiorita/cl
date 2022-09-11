@@ -1,3 +1,9 @@
-{% for menu in site.data.menus %}
-<a href="{{ menu.link | absolute_url }}">{{ menu.title }}</a>
-{% endfor %}
+<ul class="menu">
+  {% for menu_structure in site.data.menus %}
+  <li><span class="title">{{ menu_structure.section }}</span>
+    {% for menu in menu_structure.menus %}
+    <a href="{{ menu.link | absolute_url }}">{{ menu.title }}</a>
+    {% endfor %}
+  </li>
+  {% endfor %}
+</ul>

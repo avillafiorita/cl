@@ -1,16 +1,34 @@
-- title: News
-  link: news.html
-- title: Instructions
-  link: instructions.html
-- title: Calendar and Material
-  link: calendar.html
-- title: Syllabus
-  link: syllabus.html
-- title: Examination and Grading
-  link: exam.html
-- title: Questions and Answers
-  link: q-and-a.html
-- title: Collaboration Opportunities (e.g., 150h)
-  link: opportunities.html
-- title: Contacts
-  link: contacts.html
+- section: Materials
+  menus:
+  - title: Modeling
+    link: materials/modeling.html
+  - title: Propositional Logic
+    link: materials/pl.html
+  - title: First Order Logic
+    link: materials/fol.html
+  - title: Description Logic
+    link: materials/dl.html
+
+- section: CL-2022 Edition
+  menus:
+  - title: Calendar
+    link: editions/cl-2022/calendar.html
+  - title: Instructions
+    link: editions/cl-2022/instructions.html
+  - title: Syllabus
+    link: editions/cl-2022/syllabus.html
+  - title: Exam
+    link: editions/cl-2022/exam.html
+
+- section: Everything else
+  menus:
+  - title: News
+    link: news.html
+  - title: "Q&A"
+    link: q-and-a.html
+  - title: Collaborations (150h)
+    link: opportunities.html
+  - title: Editions
+    link: editions/index.html
+  - title: Contacts
+    link: contacts.html

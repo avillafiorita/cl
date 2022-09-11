@@ -11,16 +11,14 @@ date_to_string: "ordinal", "US"}} with the following schedule:
 -   Thursdays, 13:30-15:30
 -   Fridays, 13:30-15:30
 
-Lessons are in Room (TO BE DEFINED).
-
 You might want to read the [Instructions](./instructions) to
-understand how to take the course. (And the expression \"you might want
-...\" gets translated in Italian with: \"è assolutamente necessario che
-...\".)
+understand how to take the course. (And the expression \"you might
+want ...\" gets translated in Italian with: \"è assolutamente
+necessario che ...\".)
 
 The following is the lesson plan.  Notice that titles and structure of
 the lessons yet to be delivered might change.  When the lesson ends,
-we add links with the correct set of slides.
+we add links with the corresponding set of slides.
 
 <table>
     <thead>

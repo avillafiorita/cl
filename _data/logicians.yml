@@ -16,12 +16,18 @@
 - name: Gottlob Frege
   url: https://plato.stanford.edu/entries/frege/
   picture: frege.jpg
-- name: Kurt Gödel
+- name: "Kurt G&ouml;del"
   url: https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
   picture: goedel-older.jpg
 - name: Ada Lovelace
   url: https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer
   picture: lovelace.jpg
+- name: David Hilbert
+  url: https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/
+  picture: Hilbert.jpg
+- name: Stephen Cole Kleene
+  url: https://en.wikipedia.org/wiki/Stephen_Cole_Kleene
+  picture: kleene.jpg
 - name: John McCarthy
   url: https://engineering.stanford.edu/about/heroes/2013-heroes/john-mccarthy
   picture: mccarthy.jpg

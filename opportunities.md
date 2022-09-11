@@ -1,7 +1,8 @@
 ---
-title: Opportunities
+title: Collaboration Opportunities
 layout: default
 ---
+# Collaboration Opportunities
 
 Sono disponibili varie posizioni di 150h nonché posizioni di studentato
 interno, da intendersi come prima fase di un progetto di ricerca e
@@ -26,4 +27,4 @@ The applications to the "150 ore" program can be done at the link:
 <https://www.unitn.it/servizi/224/collaborazioni-studenti-150-ore>
 
 Notice that the deadline for applications for the A.Y. 2022-2023 is
-**September 30, 2022**.
+**October 30, 2022**.

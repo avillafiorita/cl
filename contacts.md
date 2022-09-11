@@ -4,11 +4,7 @@ layout: default
 ---
 # Contacts
 
-If you have a question or a doubt about the content of the course,
-please consult the [Instructions](instructions) first and open an
-issue on GitHub.
-
-For any other matter, you can drop an email:
+You can reach us here:
 
 **Fausto Giunchiglia:**
 <br />

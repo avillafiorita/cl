@@ -41,11 +41,25 @@ ul {
     margin-left: 1rem;
 }
 
+ul.menu {
+    list-style: none;
+    margin-left: 0rem;
+    padding-left: 0rem;
+}
+
+ul.menu li a {
+    padding-left: 0.5rem;
+    font-size: smaller;
+}
+
+ul.menu li span.title {
+    display: block;
+}
+
 ul.news, ul.no-bullets {
     list-style: none;
     margin-left: 0rem;
 }
-
 
 ul.news li {
     margin-top: 2rem;
