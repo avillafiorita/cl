@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CL-2022 @ UNITN
+title: CL
 email: fausto@unitn.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Computational Logic at UNITN, 2022 edition.
-baseurl: "/cl-2022"
+  Computational Logic -
+  KnowDive @ UNITN
+baseurl: "/cl"
 url: "https://datascientia.education" 
 # twitter_username: jekyllrb
 # github_username:  cl-2022

@@ -2,13 +2,23 @@
 # Jekyll needs front matter for SCSS files
 ---
 // $sidebar-bg-color: #202020 !default;
-$sidebar-bg-color: #CE132D !default;
+$sidebar-bg-color: #81a4f4 !default; // #57bde7
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
-$link-color: #268bd2 !default;
+$link-color: #CE132D !default;
 
 @import "hydeout";
+
+.main-site-title {
+    font-family: 'Abril Fatface', serif;
+    font-size: 3rem;
+    font-weight: normal;
+    margin-bottom: $heading-spacing;
+    color: $sidebar-bg-color;
+    margin-top: 0;
+ }
+
 
 .grid-x {
     display: flex;
@@ -118,3 +128,4 @@ table td {
         color: wheat;
     }
 }
+

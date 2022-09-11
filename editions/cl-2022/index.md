@@ -6,6 +6,7 @@ layout: default
 
 These are all pages specific to the 2022 edition of the course:
 
+- [Instructors](instructors.html): you teachers
 - [Calendar](calendar.html): lesson plan and link to the materials.
 - [Instructions](instructions.html): organizing to take and make the
   most of this course.

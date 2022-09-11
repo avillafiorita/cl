@@ -11,6 +11,8 @@
 
 - section: CL-2022 Edition
   menus:
+  - title: Instructors
+    link: editions/cl-2022/instructors.html
   - title: Calendar
     link: editions/cl-2022/calendar.html
   - title: Instructions
@@ -30,5 +32,7 @@
     link: opportunities.html
   - title: Editions
     link: editions/index.html
+  - title: Built with
+    link: built-with.html
   - title: Contacts
     link: contacts.html
