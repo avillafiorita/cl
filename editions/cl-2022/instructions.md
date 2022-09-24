@@ -12,11 +12,14 @@ with satisfaction and success.
 
 ## Resources
 
-There are basically three kind of resources you can use to study:
+There are basically three kinds of resources you can use to study:
 
-- **This website** (https://datascientia.education/cl-2022), which
-  contains **slides** and other support materials, such as **videos of
-  the lessons**.
+- **This website**
+  ([https://datascientia.education/cl](https://datascientia.education/cl))
+  and the pages specific to this edition of the course
+  ([https://datascientia.education/cl/editions/cl-2022/](https://datascientia.education/cl/editions/cl-2022/)),
+  which contains **slides** and other support materials, such as
+  **videos of the lessons**.
   
   Slides are usually made available before the lesson,
   while video are uploaded usually no more than one week after the
@@ -24,8 +27,9 @@ There are basically three kind of resources you can use to study:
 
   More about the structure of the website below.
  
-- **The Moodle website** (), which is used for communications and for
-  posting quizzes and tests.
+- **The Moodle website**
+  ([https://didatticaonline.unitn.it/dol/enrol/index.php?id=34489](https://didatticaonline.unitn.it/dol/enrol/index.php?id=34489)),
+  which is used for communications and for posting quizzes and tests.
   
   Moodle is also used for mid-term and the final exams.  All
   interesting materials on the Moodle website are also highlighted and

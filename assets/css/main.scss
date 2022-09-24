@@ -32,6 +32,7 @@ $link-color: #CE132D !default;
 
 blockquote {
     border-left: 6px solid $sidebar-bg-color;
+    padding-left: 12px;
 }
 
 blockquote p {
@@ -101,6 +102,34 @@ ul.news li {
 
 table td {
     vertical-align: top;
+}
+
+.thumb {
+    width: 200px;
+}
+
+.materials-description {
+    margin-bottom: 1rem;
+}
+
+.materials-subgroup {
+    padding-top: 1rem;
+    border-bottom: 1px solid #DEDEDE;
+}
+
+.materials-title {
+    border-bottom: 1px solid #DEDEDE;
+}
+
+
+.materials-slides-link a, .materials-video-link a {
+    font-size: 0.5rem;
+}
+
+.materials-link-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
 }
 
 @media only screen and (max-width: 780px) {

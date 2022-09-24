@@ -1,0 +1,68 @@
+- title: Introduction to the Course
+  link: https://datascientia.education/cl/
+  group: modeling
+  subgroup: Introduction
+  date: 2022-09-13
+  description: >-
+    The ropes.
+    
+- title: "The Case for Formal Reasoning"
+  link: https://datascientia.education/cl-motivations/
+  group: modeling
+  subgroup: Introduction
+  date: 2022-09-13
+  description: >-
+    Why we need formal reasoning.
+
+- title: "1.1.1-Modeling-representation-mentalRepresentation.pdf"
+  link: https://drive.google.com/file/d/1Lhm8p-d7iSWycYs8AF0BBPzGQ_StkvbQ/view?usp=sharing
+  group: modeling
+  subgroup: Modeling Representations
+  date: 2022-09-16
+  description: >-
+    Mental Representation
+
+- title: "1.1.2-Modeling-representation-representation.pdf"
+  link: https://drive.google.com/file/d/1a0YfelD2FUr1t4QF3SiYfLpqyyRPSh_b/view?usp=sharing
+  video_link: https://drive.google.com/file/d/1MwRQZI2K1rPRQM71f0QODEFbAkle4NV7/view?usp=sharing
+  group: modeling
+  subgroup: Modeling Representations
+  date: 2022-09-16
+  description: >-
+    Representation
+
+- title: "1.1.3-Modeling-representation-modeling.pdf"
+  link: https://drive.google.com/file/d/1-GmnR-fiQtyA4nN80isoba5eRL1RfH7u/view?usp=sharing
+  video_link: https://drive.google.com/file/d/1Mvis2RlKj0n7FXSX-JYzAtDezSLTuQKo/view?usp=sharing
+  group: modeling
+  subgroup: Modeling Representations
+  date: 2022-09-16
+  description: >-
+    Modeling
+
+- title: "1.2.1-Modeling-mentalModel-knowledgeSemantics-slides.pdf"
+  link: https://drive.google.com/file/d/10W0dq1Tdetwo3pj-9S5LWXbaQgrmH8dG/view?usp=sharing
+  video_link: https://drive.google.com/file/d/1N2z4v4YvO-SBQelbhVhisHXV1ccpBeLo/view?usp=sharing
+  group: modeling
+  subgroup: Modeling Mental Models
+  date: 2022-09-23
+  description: >-
+    Giving meaning
+    
+- title: "1.2.2-Modeling-mentalModel-languageSemantics-slides.pdf"
+  link: https://drive.google.com/file/d/1Um-Hys96POI24mCBCULlFt5NAvZRR8v5/view?usp=sharing
+  video_link: https://drive.google.com/file/d/1NI1Ks0c7uvacl9cj9VoCz2A5JH2ioem7/view?usp=sharing
+  group: modeling
+  subgroup: Modeling Mental Models
+  date: 2022-09-23
+  description: >-
+    Giving meaning to language
+
+- title: "1.2.3-Modeling-mentalModel-modelModel-slides.pdf"
+  link: https://drive.google.com/file/d/15DYtAu38ZoV-gxQOI7PR4KhY3TpdihK3/view?usp=sharing
+  video_link: https://drive.google.com/file/d/1NI1Ks0c7uvacl9cj9VoCz2A5JH2ioem7/view?usp=sharing
+  group: modeling
+  subgroup: Modeling Mental Models
+  date: 2022-09-23
+  description: >-
+    What's on your mind?

@@ -1,9 +1,0 @@
-#+title: Resources
-theme: default
-#+AUTHOR: 
-#+DATE: <2020-08-30 Sun>
-#+INCLUDE: _navigation-l0.org
-#+STARTUP: showall
-
-
-

@@ -1,0 +1,42 @@
+---
+title: Modeling
+layout: default
+---
+<h1>Modeling</h1>
+
+<blockquote>
+  Materials about informal to formal and modeling are published here.
+</blockquote>
+
+{% assign mod_mat = site.data.materials | where: "group", "modeling" | group_by: "subgroup" %}
+{% for record in mod_mat %}
+
+<h2 class="materials-subgroup">{{ record["name"] }}</h2>
+
+{% for item in record["items"] %}
+<h3 class="materials-title">{{ item.title }}</h3>
+
+<div class="materials-description">
+   {{ item.description }}<br />
+</div>
+
+<div class="materials-link-container">
+  <div class="materials-slides-link">
+    <a href="{{ item.link }}">
+      <img src="{{ "assets/images/thumbs/slides-thumbnail.jpg" | absolute_url }}"
+           class="thumb">
+      Slides: {{ item.title }}
+    </a>
+  </div>
+  <div class="materials-video-link">
+    {% if item.video_link %}
+    <a href="{{ item.video_link }}">
+      <img src="{{ "assets/images/thumbs/video-thumbnail.jpg" | absolute_url }}" class="thumb">
+      Video: {{ item.title }}
+    </a>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
+
+{% endfor %}
