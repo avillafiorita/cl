@@ -22,17 +22,17 @@ layout: default
 
 <div class="materials-link-container">
   <div class="materials-slides-link">
-    <a href="{{ item.link }}">
+    <a href="{{ item.link }}{% unless item.remove_extensions %}/view?usp=sharing{% endunless %}">
       <img src="{{ "assets/images/thumbs/slides-thumbnail.jpg" | absolute_url }}"
            class="thumb">
-      Slides: {{ item.title }}
+      Slides: {{ item.title }}{% unless item.remove_extensions %}.pdf{% endunless %}
     </a>
   </div>
   <div class="materials-video-link">
     {% if item.video_link %}
-    <a href="{{ item.video_link }}">
+    <a href="{{ item.video_link }}{% unless item.remove_extensions %}/view?usp=sharing{% endunless %}">
       <img src="{{ "assets/images/thumbs/video-thumbnail.jpg" | absolute_url }}" class="thumb">
-      Video: {{ item.title }}
+      Video: {{ item.title }}{% unless item.remove_extensions %}.mp4{% endunless %}
     </a>
     {% endif %}
   </div>
