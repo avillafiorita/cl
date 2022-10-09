@@ -1,0 +1,218 @@
+
+- date: 2022-09-16
+  hours: 1
+  time: 13:30-15:30
+  topic: "Course description"
+  part: ""
+  lesson: "1"
+  index: 0
+  materials:
+    - topic: ""
+      slides: "L1.P1.V0.Models.courseIntro"
+
+- date: 2022-09-16
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.1 Representation"
+  part: "1st part --- Modeling"
+  lesson: "1"
+  index: 2
+  materials:
+    - topic: "1.1.1 Mental representation"
+      slides: "L1.P2.V0.Models.mentalRepresentation"
+
+- date: 2022-09-22
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.1 Representation"
+  part: "1st part --- Modeling"
+  lesson: "2"
+  index: 3
+  materials:
+    - topic: "1.1.2 Representation"
+      slides: "L2.P1.V0.Models.representation"
+    - topic: "1.1.3 Modeling"
+      slides: "L2.P2.V0.Models.modeling"
+
+- date: 2022-09-23
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.2 Mental model"
+  part: "1st part --- Modeling"
+  lesson: "3"
+  index: 5
+  materials:
+    - topic: "1.2.1 Knowledge semantics"
+      slides: "L3.P1.V0.Modeling.knowledgeSemantics"
+    - topic: "1.2.2 Language semantics"
+      slides: "L3.P2.V0.Modeling.languageSemantics"
+    - topic: "1.2.3 Mental model"
+      slides: "L3.P3.V0.Modeling.mentalModel"
+
+- date: 2022-09-29
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.3 Formal Model"
+  part: "1st part --- Modeling"
+  lesson: "4"
+  index: 8
+  materials:
+    - topic: "1.3.1 Informal  language"
+      slides: "L4.P1.V0.Modeling.informalLanguage"
+
+- date: 2022-09-30
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.3 Formal Model"
+  part: "1st part --- Modeling"
+  lesson: "5"
+  index: 9
+  materials:
+    - topic: "1.3.2 Semi-formal language"
+      slides: "L5.P1.V0.Modeling.semiFormalLanguage"
+    - topic: "1.3.3 Formal language"
+      slides: "L5.P2.V0.Modeling.formalLanguage"
+
+- date: 2022-10-06
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.5 Exercises"
+  part: "1st part --- Modeling"
+  lesson: "6"
+  index: 11
+  materials:
+    - topic: "1.7.1 Exercises"
+      slides: "L6.P1.V0.Modeling.Exercises"
+
+- date: 2022-10-07
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.3 Formal Model    1.4 Set theory"
+  part: "1st part --- Modeling"
+  lesson: "7"
+  index: 12
+  materials:
+    - topic: "1.3.4 Formal knowledge"
+      slides: "L7.P1.V0.Modeling.formalKnowledge"
+    - topic: "1.3.5 World Model"
+      slides: "L7.P2.V0.Modeling.worldModel"
+    - topic: "1.4.1 Sets"
+      slides: "L7.P3.V0.Modeling.sets"
+    - topic: "1.4.2 Relations"
+      slides: "L7.P4.V0.Modeling.relations"
+    - topic: "1.4.3 Functions"
+      slides: "L7.P5.V0.Modeling.functions"
+    - topic: "1.4.4 Using set theory for model representation"
+      slides: "L7.P6.V0.Modeling.usingSetTheoryForModelRepresentation"
+
+- date: 2022-10-13
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.4 Reasoning     1.5 Using models                               "
+  part: "1st part --- Modeling"
+  lesson: "8"
+  index: 18
+  materials:
+    - topic: "1.5.1 Reasoning Task"
+      slides: "L8.P1.V0.Modeling.reasoningTasks"
+    - topic: "1.5.2 Reasoning properties"
+      slides: "L8.P2.V0.Modeling.reasoningProperties"
+    - topic: "1.6.1 Levels Of formalization"
+      slides: "L8.P3.V0.Modeling.levelsOfFormalization"
+    - topic: "1.6.2 Using logic"
+      slides: "L8.P4.V0.Modeling.usingLogic"
+
+- date: 2022-10-14
+  hours: 2
+  time: 13:30-15:30
+  topic: "1.5 Exercises"
+  part: "1st part --- Modeling"
+  lesson: "9"
+  index: 22
+  materials:
+    - topic: "1.7.2 Exercises"
+      slides: "L9.P1.V0.Modeling.Exercises"
+
+- date: 2022-10-20
+  hours: 2
+  time: 13:30-15:30
+  topic: "2.1 Notions"
+  part: "2nd part --- PL"
+  lesson: "10"
+  index: 24
+  materials:
+    - topic: "2.1.1 Intuition"
+      slides: "L10.P1.V0.PL.intuition"
+    - topic: "2.1.2 Syntax"
+      slides: "L10.P2.V0.PL.syntax"
+    - topic: "2.1.3 Semantics"
+      slides: "L10.P3.V0.PL.semantics"
+    - topic: "2.1.4 Satisfiability"
+      slides: "L10.P4.V0.PL.satisfiability"
+    - topic: "2.1.5 Validity and unsatisfiability"
+      slides: "L10.P5.V0.PL.val&Unsat"
+    - topic: "2.1.6 Logical consequence and equivalence"
+      slides: "L10.P6.V0.PL.logicalConsequenceAndEquivalence"
+    - topic: "2.1.7 InformalToFormal"
+      slides: "L10.P7.V0.PL.informalToFormal"
+
+- date: 2022-10-21
+  hours: 2
+  time: 13:30-15:30
+  topic: "2.2 Truth tables reasoning"
+  part: "2nd part --- PL"
+  lesson: "11"
+  index: 31
+  materials:
+    - topic: "2.2.1 Truth Tables"
+      slides: "L11.P1.V0.PL.truthTables"
+    - topic: "2.2.2Sat-based reasoning"
+      slides: "L11.P2.V0.PL.SATdefinitions"
+
+- date: 2022-10-27
+  hours: 2
+  time: 13:30-15:30
+  topic: "2.3 Tableaux Reasoning"
+  part: "2nd part --- PL"
+  lesson: "12"
+  index: 33
+  materials:
+    - topic: "2.3.1 Reasoning problems"
+      slides: "L12.P1.V0.PL.reasoningProblems"
+    - topic: "2.3.2 Tableaux"
+      slides: "L12.P2.V0.PL.Tableaux"
+
+- date: 2022-10-28
+  hours: 2
+  time: 13:30-15:30
+  topic: "2.4 Exercises"
+  part: "2nd part --- PL"
+  lesson: "13"
+  index: 35
+  materials:
+    - topic: "2.4.1 Recap "
+      slides: "L13.P1.V0.PL.recap"
+    - topic: "2.4.2 Exercises "
+      slides: "L13.P2.V0.PL.exercises"
+
+- date: 
+  hours: 
+  time: 
+  topic: "Preparazione midterm"
+  part: "2nd part --- PL"
+  lesson: "12+"
+  index: 37
+  materials:
+    - topic: ""
+      slides: ""
+
+- date: 
+  hours: 
+  time: 
+  topic: "Midterm"
+  part: "2nd part --- PL"
+  lesson: ""
+  index: 38
+  materials:
+    - topic: ""
+      slides: ""

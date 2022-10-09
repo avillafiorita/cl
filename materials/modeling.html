@@ -22,7 +22,7 @@ layout: default
 
 <div class="materials-link-container">
   <div class="materials-slides-link">
-    <a href="{{ item.link }}{% unless item.remove_extensions %}/view?usp=sharing{% endunless %}">
+    <a href="{{ item.link }}">
       <img src="{{ "assets/images/thumbs/slides-thumbnail.jpg" | absolute_url }}"
            class="thumb">
       Slides: {{ item.title }}{% unless item.remove_extensions %}.pdf{% endunless %}
@@ -30,7 +30,7 @@ layout: default
   </div>
   <div class="materials-video-link">
     {% if item.video_link %}
-    <a href="{{ item.video_link }}{% unless item.remove_extensions %}/view?usp=sharing{% endunless %}">
+    <a href="{{ item.video_link }}">
       <img src="{{ "assets/images/thumbs/video-thumbnail.jpg" | absolute_url }}" class="thumb">
       Video: {{ item.title }}{% unless item.remove_extensions %}.mp4{% endunless %}
     </a>
@@ -40,3 +40,5 @@ layout: default
 {% endfor %}
 
 {% endfor %}
+
+{% include materials_directory.html %}

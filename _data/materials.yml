@@ -1,19 +1,15 @@
 - title: Introduction to the Course
-  remove_extensions: yes
   link: https://datascientia.education/cl/
   group: modeling
   subgroup: Introduction
-  date: 2022-09-13
   description: >-
     The ropes.  Notes: this is a link to website itself. Nothing to
     download.
     
 - title: "The Case for Formal Reasoning"
-  remove_extensions: yes
   link: https://datascientia.education/cl-motivations/
   group: modeling
   subgroup: Introduction
-  date: 2022-09-13
   description: >-
     Why we need formal reasoning. Notes: this is a link to other pages
     on this website (to be precise: a HTML presentation in Reveal.js
@@ -23,7 +19,6 @@
   link: https://drive.google.com/file/d/1Lhm8p-d7iSWycYs8AF0BBPzGQ_StkvbQ
   group: modeling
   subgroup: Modeling Representations
-  date: 2022-09-16
   description: >-
     Mental Representation
 
@@ -32,7 +27,6 @@
   video_link: https://drive.google.com/file/d/1MwRQZI2K1rPRQM71f0QODEFbAkle4NV7
   group: modeling
   subgroup: Modeling Representations
-  date: 2022-09-16
   description: >-
     Representation
 
@@ -41,7 +35,6 @@
   video_link: https://drive.google.com/file/d/1Mvis2RlKj0n7FXSX-JYzAtDezSLTuQKo
   group: modeling
   subgroup: Modeling Representations
-  date: 2022-09-16
   description: >-
     Modeling
 
@@ -50,7 +43,6 @@
   video_link: https://drive.google.com/file/d/1N2z4v4YvO-SBQelbhVhisHXV1ccpBeLo
   group: modeling
   subgroup: Modeling Mental Models
-  date: 2022-09-23
   description: >-
     Giving meaning
     
@@ -59,7 +51,6 @@
   video_link: https://drive.google.com/file/d/1NI1Ks0c7uvacl9cj9VoCz2A5JH2ioem7
   group: modeling
   subgroup: Modeling Mental Models
-  date: 2022-09-23
   description: >-
     Giving meaning to language
 
@@ -68,7 +59,6 @@
   video_link: https://drive.google.com/file/d/1NICxiY0m97t8JyJimRVXJ5M4wtS_2vIZ
   group: modeling
   subgroup: Modeling Mental Models
-  date: 2022-09-23
   description: >-
     What's on your mind?
 
@@ -77,34 +67,65 @@
   video_link: https://drive.google.com/file/d/1PVNqs0a1hu1tRamq2_kqE-ynrRO-URf_
   group: modeling
   subgroup: Informal to Formal
-  date: 2022-09-29
   description: >-
     Can you tell me what's on your mind?
     
 - title: "1.3.2-Modeling-formalMentalModel-semiFormal&FormalLanguage"
   link: https://drive.google.com/file/d/1dgvnV_9oQ6IKNeVE1d-L7eywDXNbpviX
-  video_link: https://drive.google.com/file/d/1PXgh5MIBR3lFBLp3j6mwoCocWuh5P2ea
+  video_link: https://drive.google.com/file/d/1piB3FKnOSh2r1r9N0fbIkGMXjl_3Pa0f
   group: modeling
   subgroup: Informal to Formal
-  date: 2022-09-29
   description: >-
     Hold on, hold on, can't you be a bit more precise?
 
-- title: "1.3.3-Modeling-formalMentalModel-formalKnowledge"
-  link: https://drive.google.com/file/d/1RgXqxXxEOsrGSpGNvF1JMMfxdmPigYMh
-  video_link: 
+- title: "1.3.3-Modeling-formalMentalModel-formalLanguage"
+  link: https://drive.google.com/file/d/1yUAFIcxggiMvYxUKvLcBQER-KFDnD8RV
   group: modeling
   subgroup: Informal to Formal
-  date: 2022-09-30
   description: >-
-    Yes, I can be a more formal.
+    Yes, I can be more formal
 
-- title: "1.3.4-Modeling-formalMentalModel-formalMentalModel"
+- title: "1.3.4-ModelingformalMentalModel-formalMentalModel"
   link: https://drive.google.com/file/d/1ozP3HMW1ZYO0rPVHrGHEVrJjCwLNR2E9
-  video_link: 
   group: modeling
   subgroup: Informal to Formal
-  date: 2022-09-30
   description: >-
-    Logical, isn't it?
+    It's all in my head.
+    
+- title: "1.3.5-Exercises-Modeling"
+  link: https://drive.google.com/file/d/1j_FXMtDSTuOekyzLymGffarzqyBnUIIu
+  group: modeling
+  subgroup: Modeling Exercises
+  description: >-
+    ... but, in practice? In theory, theory are practice are the same,
+    in practice, they are not.
+    
+- title: "1.4.1-Modeling-setTheory-sets"
+  link: https://drive.google.com/file/d/1B5G55ld2sd_unvxNoU-18doZvbjTPUT-
+  video_link: https://drive.google.com/file/d/1TRocsSWSS1Y23Vjp52ieo5wgh-r5DH_l
+  group: modeling
+  subgroup: Set Theory
+  description: >-
+    Sets
 
+    
+- title: "1.4.2-Modeling-setTheory-relations"
+  link: https://drive.google.com/file/d/1VC89l7-XCxXZLQfEwATDbz8qz5_CmV4I
+  group: modeling
+  subgroup: Set Theory
+  description: >-
+    Relations
+    
+- title: "1.4.3-Modeling-setTheory-functions"
+  link: https://drive.google.com/file/d/1bjt8P_0K03potrk0r1xWeSFf65z5CELF
+  group: modeling
+  subgroup: Set Theory
+  description: >-
+    Functions
+
+- title: "1.4.4-Modeling-setTheory-usingSetTheory"
+  link: https://drive.google.com/file/d/1Zu8L_9M7GNWiykF8TCJRwkDk7y6tWZ1B
+  group: modeling
+  subgroup: Set Theory
+  description: >-
+    Using set theory

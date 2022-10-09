@@ -1,6 +1,7 @@
 require 'csv'
 
-SLIDES_COLUMN_NAME = "Slides: Format: Lesson.Part.slideVersion.Topic.Subtopic".freeze
+# one column has a very loooooooooooooooooooooooooooooooooong column name
+SLIDES_COLUMN_NAME = "Slides ---- Format: Lesson.Part.slideVersion.Topic.Subtopic"
 
 def emit_material row
   puts "    - topic: \"#{row["Subtopics"]}\""
@@ -30,9 +31,9 @@ def empty? obj
   obj == nil || obj == ""
 end
 
-def generate
+def generate(input_file)
   # first step remove parts
-  csv = CSV.read "syllabus-from-google.csv", headers: true
+  csv = CSV.read input_file, headers: true
 
   current_part = ""
   csv.each_with_index do |row, index|
@@ -50,4 +51,4 @@ def generate
   end
 end  
 
-generate
+generate ARGV[0]

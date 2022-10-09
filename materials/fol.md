@@ -6,3 +6,4 @@ layout: default
 
 Materials about first order logic will appear here.
 
+{% include materials_directory.html %}

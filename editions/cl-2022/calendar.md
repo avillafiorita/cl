@@ -16,31 +16,36 @@ understand how to take the course. (And the expression \"you might
 want ...\" gets translated in Italian with: \"è assolutamente
 necessario che ...\".)
 
-The following is the lesson plan.  Notice that titles and structure of
-the lessons yet to be delivered might change.  When the lesson ends,
-we add links with the corresponding set of slides.
+## Lessons' Diary
+
+This is the list of lessons delivered so far plus a tentative schedule
+of lessons in the near future.
 
 <table>
     <thead>
       <tr>
-        <th>Planned Date</th>
-        <th>Planned Topic</th>
-        <th>Materials</th>
+        <th>Date</th>
+        <th>Topic</th>
+        <th>Subtopic & Materials</th>
       </tr>      
     </thead>
     <tbody>
-    {% for lesson in site.data.lessons %}
+    {% for lesson in site.data.actual_calendar %}
     <tr>
     <td>
-      {{ lesson.date | date_to_string: "ordinal", "US" }}<br />
+      <b>{{ lesson.date | date: "%a, %d %b %Y" }}</b>
+      <br />
       {{ lesson.time }}
     </td>
     <td>{{ lesson.topic }}</td>
     <td>
-        <ul>
+        <ul class="no-bullets">
         {% for material in lesson.materials %}
         {% if material.slides != "" %}
-          <li>{{ material.topic }}: {{ material.slides }}</li>
+          <li style="margin-bottom:0.7rem">
+              <b>{{ material.topic }}:</b><br/> 
+              {{ material.slides }}
+          </li>
         {% endif %}
         {% endfor %}
         </ul>
@@ -49,4 +54,4 @@ we add links with the corresponding set of slides.
     {% endfor %}
     </tbody>
 </table>
- 
+
