@@ -203,6 +203,70 @@
   description: >-
     The truth is, it is certainly false.
 
+- title: 2.4-tableauxInference
+  link: https://drive.google.com/open?id=1y_M9yjtBlL3ciTUIu4qaGvVFa_inIOQ5
+  video_link: https://drive.google.com/open?id=15RBkysjYu3_SFdsatEQuOSc_01TvzSXq
+  group: propositional_logic
+  subgroup:
+  description: >-
+    What's on the table..aux?
+
+- title: 2.5-PL-Exercises
+  link: https://drive.google.com/open?id=1NOlaZtxBsQc-9aReO0FudfAXdaH-Laej
+  group: propositional_logic
+  subgroup:
+  description: >-
+    Some exercises.
+
+- title: Will Carla go to the party?
+  video_link: https://drive.google.com/open?id=1jwC9pxlO7pSi_tmMDvsYr-lPGiS48lzm
+  group: propositional_logic
+  subgroup:
+  description: >-
+    ... Not without a final twist.
+
+- title: Exercises 
+  pdf_links:
+    - title: Problems
+      link: https://drive.google.com/open?id=1-8buucK3WJuujsqdr_MHfAIB_ffe-6wK
+    - title: Solutions
+      link: https://drive.google.com/open?id=1_DsgFiJy6ALbl-x13UZzYBB1FaWzAp60
+  group: propositional_logic
+  subgroup:
+  description: >-
+    Have fun!
+
+- title: FOL Logic
+  link: https://drive.google.com/open?id=1xaQ4a5dpuEcuNryHxRZi7vf1R0QSUvAW&usp=drive_copy
+  video_link: https://drive.google.com/open?id=16MjxbgaiqHusFdoqvuUaKtw6xjgfBiWs&usp=drive_copy
+  group: fol
+  subgroup: logic
+  description: >-
+    First Order Logic
+
+- title: FOL Logic - Addenda
+  video_link: https://drive.google.com/open?id=16NpY4dNsIml_mN2lrH0TMjnL9wkzdb_N&usp=drive_copy
+  group: fol
+  subgroup: logic
+  description: >-
+    First Order Logic - Video Addenda
+
+- title: FOL Modeling
+  link: https://drive.google.com/open?id=17aSFwwJOHpKQWn_FrLRt8RYI87F_vgVG&usp=drive_copy
+  video_link: https://drive.google.com/open?id=18CMj4huk9dUa_SAcDWCSglG_il7SR-dg&usp=drive_copy
+  group: fol
+  subgroup: modeling
+  description: >-
+    First Order Logic - Video Addenda
+
+- title: FOL Calculus
+  link: https://drive.google.com/open?id=18DCm0EGcuGr9rGMJZoRvHR4qhRVTXGuI&usp=drive_copy
+  video_link: https://drive.google.com/open?id=189Wzugt5PUpSOOmqMAzdNIbOkf855noO&usp=drive_copy
+  group: fol
+  subgroup: calculus
+  description: >-
+    First Order Logic - Calculus
+
 # - Title: 
 #   link: 
 #   video_link:
